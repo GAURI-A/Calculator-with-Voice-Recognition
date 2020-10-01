@@ -1,4 +1,4 @@
-# A smart Calculator
+# A Smart Calculator
 A smart calculator that accepts voice input
 ![title](https://user-images.githubusercontent.com/39196039/40327390-5369e8e4-5d60-11e8-9e23-424f40325919.jpg)
 
